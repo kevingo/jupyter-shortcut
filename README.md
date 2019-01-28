@@ -10,3 +10,4 @@
 - `ESC + R + Y`：清除 output
 - `D + D`：刪除目前的 cell
 - `Enter`：從 command mode 進入 edit mode
+- `ctrl + Enter`：執行目前的 cell
