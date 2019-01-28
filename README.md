@@ -11,3 +11,4 @@
 - `D + D`：刪除目前的 cell
 - `Enter`：從 command mode 進入 edit mode
 - `ctrl + Enter`：執行目前的 cell
+- `Alt + Enter`：執行目前的 cell 並在底下新增一個 cell
