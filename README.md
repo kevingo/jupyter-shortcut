@@ -15,3 +15,5 @@
 - `Enter`：從 command mode 進入 edit mode
 - `ctrl + Enter`：執行目前的 cell
 - `Alt + Enter`：執行目前的 cell 並在底下新增一個 cell
+- `ctrl + shift + -`：分割目前的 cell
+- `ESC + shift + M`：合併下方 cell
